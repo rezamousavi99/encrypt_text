@@ -1,0 +1,3 @@
+A simple program which you can send a text as input and recieve encrypted text
+you can also doing this in reversed meaning that you can send an encrypted text and program will
+turn it into the original text during some process...
